@@ -18,11 +18,10 @@
 
 ### 🐍 GitHub Contribution Snake
 
-![GitHub Snake](https://raw.githubusercontent.com/uzii9/uzii9/output/snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uzii9/uzii9/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/uzii9/uzii9/output/snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/uzii9/uzii9/output/snake.svg">
+</picture>
 
 ---
-
-<!---
-uzii9/uzii9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
