@@ -16,7 +16,6 @@
 
 ---
 
-### 🐍 GitHub Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uzii9/uzii9/output/snake-dark.svg">
