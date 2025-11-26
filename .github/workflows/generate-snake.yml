@@ -17,7 +17,9 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: uzii9
-          outputs: dist/snake.svg
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
 
       - name: Deploy to output branch
         uses: JamesIves/github-pages-deploy-action@v4
