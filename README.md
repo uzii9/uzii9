@@ -1,4 +1,4 @@
-# Tech Stack
+\# Tech Stack
 
 ### 🛠️ Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -16,6 +16,11 @@
 
 ---
 
+### 🐍 GitHub Contribution Snake
+
+![GitHub Snake](https://raw.githubusercontent.com/uzii9/uzii9/output/snake.svg)
+
+---
 
 <!---
 uzii9/uzii9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
