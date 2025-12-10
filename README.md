@@ -8,7 +8,6 @@ I'm an aspiring Software Engineer, I'd describe myself as driven passionate and 
 
 
 - **Software Developer Intern @ Nimble Science** – building Python + SQL dashboards for R&D workflows  
-- Backend Developer @ **TechStart UCalgary** (Audora) – NLP pipelines, diarization, serverless backend (Convex)  
 
 
 ---
