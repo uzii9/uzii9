@@ -7,7 +7,8 @@ I'm an aspiring Software Engineer, I'd describe myself as driven passionate and 
 ## Currently
 
 
- **Software Developer Intern @ City of Edmonton* 
+ *Software Developer Intern @ City of Edmonton*
+
 ---
 
 ## 🛠️ Tech Stack
