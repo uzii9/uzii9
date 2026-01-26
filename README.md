@@ -7,9 +7,7 @@ I'm an aspiring Software Engineer, I'd describe myself as driven passionate and 
 ## Currently
 
 
-- **Software Developer Intern @ Nimble Science** – building Python + SQL dashboards for R&D workflows  
-
-
+- **Software Developer Intern @ City of Edmonton* 
 ---
 
 ## 🛠️ Tech Stack
